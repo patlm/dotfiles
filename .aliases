@@ -1,0 +1,25 @@
+# Source
+alias src='source ~/.zshrc'
+
+# Vim
+alias e='vim'
+
+# Yarn
+alias y='yarn'
+alias yb= 'yarn build'
+alias ys='yarn start'
+alias yif='yarn install --force'
+
+# Git
+alias g='git'
+alias ga='git add'
+alias gb='git branch'
+alias gc='git commit'
+alias gch='git checkout'
+alias gchn='git checkout -b'
+alias gs='git status'
+alias gp='git pull'
+alias gpu='git push'
+alias gr='git rebase origin/main'
+alias grh='git reset --hard'
+alias gd='git diff'
