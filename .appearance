@@ -8,4 +8,4 @@ NEWLINE=$'\n'
 
 # Set up the prompt
 setopt PROMPT_SUBST
-PROMPT='%1~ %F{green}${vcs_info_msg_0_}%f${NEWLINE} 🦖 🦕 🚀 $ '
+PROMPT='%1~ %F{green}(${vcs_info_msg_0_})%f${NEWLINE} 🦖 🦕 🚀 $ '
